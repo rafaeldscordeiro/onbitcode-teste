@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "onbitcode-teste",
+    "slug": "onbitcode-teste",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
